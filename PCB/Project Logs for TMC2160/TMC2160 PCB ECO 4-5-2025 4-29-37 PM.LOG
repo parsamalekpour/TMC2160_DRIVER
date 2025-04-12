@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=CFG6 Pin=CFG-1
-Removed Pin From Net: NetName=VCC_IO Pin=CFG-16
-Removed Member From Class: ClassName=TMC2160 Member=SW1
-Change Component Designator: OldDesignator=SW1 NewDesignator=CFG
-Added Pin To Net: NetName=CFG6 Pin=CFG-1
-Added Pin To Net: NetName=VCC_IO Pin=CFG-16
-Change Net Name : Old Net Name=NetR12_2 New Net Name=NetCFG_4
