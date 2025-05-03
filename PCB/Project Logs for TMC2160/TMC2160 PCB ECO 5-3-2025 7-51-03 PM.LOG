@@ -1,0 +1,29 @@
+Added Component: Designator=R19(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistence"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistence"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistence"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RESC1005X40X25LL05T10)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo / Phycomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistence"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R19-1
+Added Pin To Net: NetName=CFG0 Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=CFG1 Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=CFG2 Pin=R21-2
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=CFG3 Pin=R22-2
+Added Member To Class: ClassName=TMC2160 Member=Component CFG 218-8LPST
+Added Member To Class: ClassName=TMC2160 Member=Component R19 RC0402FR-0710KL
+Added Member To Class: ClassName=TMC2160 Member=Component R20 RC0402FR-0710KL
+Added Member To Class: ClassName=TMC2160 Member=Component R21 RC0402FR-0710KL
+Added Member To Class: ClassName=TMC2160 Member=Component R22 RC0402FR-0710KL
