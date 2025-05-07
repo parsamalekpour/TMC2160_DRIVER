@@ -1,1 +1,4 @@
 *.Zip
+/PCB/Project Outputs for TMC2160
+/PCB/Project Logs for TMC2160
+/PCB/History
